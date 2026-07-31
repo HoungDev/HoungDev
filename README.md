@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Nana Dev
 
-<!--
-**HoungDev/HoungDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Open Source Developer from Vietnam 🇻🇳
 
-Here are some ideas to get you started:
+I enjoy building useful software with Python, automation, and AI to solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- Python Development
+- Git & GitHub
+- Automation
+- AI Applications
+- Open Source
+
+## 🛠 Tech Stack
+
+- Python
+- Git
+- GitHub
+- Markdown
+
+## 🎯 2026 Goals
+
+- Build useful open-source projects
+- Improve software engineering skills
+- Contribute to the open-source community
+- Create tools that help developers and creators
+
+---
+
+⭐ Thanks for visiting my profile!
