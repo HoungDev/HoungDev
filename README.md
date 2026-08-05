@@ -1,31 +1,126 @@
-# 👋 Hi, I'm Nana Dev
+# Hi, I'm HoungDev 👋
 
-### Open Source Developer from Vietnam 🇻🇳
+Open Source Maintainer and Backend Developer from Vietnam 🇻🇳
 
-I enjoy building useful software with Python, automation, and AI to solve practical problems.
-
-## 🚀 Currently Learning
-
-- Python Development
-- Git & GitHub
-- Automation
-- AI Applications
-- Open Source
-
-## 🛠 Tech Stack
-
-- Python
-- Git
-- GitHub
-- Markdown
-
-## 🎯 2026 Goals
-
-- Build useful open-source projects
-- Improve software engineering skills
-- Contribute to the open-source community
-- Create tools that help developers and creators
+I build secure, production-ready backend systems with Python and FastAPI.
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🚀 Featured Open Source Project
+
+### FastAPI Production API
+
+A production-ready FastAPI backend foundation.
+
+Repository:
+
+https://github.com/HoungDev/fastapi-production-api
+
+
+Built with:
+
+- Python
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- Alembic
+- JWT Authentication
+- CI/CD
+
+
+Features:
+
+✅ JWT Authentication
+
+✅ Refresh Token Rotation
+
+✅ Security Middleware
+
+✅ Rate Limiting
+
+✅ Automated Testing
+
+✅ Production Documentation
+
+
+---
+
+## 🛠 Tech Stack
+
+Backend:
+
+- Python
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+
+
+Security:
+
+- JWT
+- OAuth2
+- bcrypt
+- API Security
+
+
+Development:
+
+- Git
+- GitHub Actions
+- Pytest
+- Open Source Workflow
+
+
+---
+
+## 🌱 Open Source Mission
+
+I create open-source software focused on:
+
+- Clean architecture
+- Security best practices
+- Developer experience
+- Production reliability
+
+
+My goal is to build useful tools that help developers create better software.
+
+---
+
+## 🤝 Contribution
+
+I welcome:
+
+- Bug reports
+- Feature suggestions
+- Code contributions
+- Technical discussions
+
+
+Contribution guide:
+
+https://github.com/HoungDev/fastapi-production-api/blob/main/CONTRIBUTING.md
+
+
+---
+
+## ❤️ Support My Work
+
+If my projects help you, you can support my open-source journey by:
+
+⭐ Starring repositories
+
+🐛 Reporting issues
+
+💡 Sharing feedback
+
+❤️ Sponsoring development
+
+
+---
+
+## 📫 Connect
+
+GitHub:
+
+https://github.com/HoungDev
